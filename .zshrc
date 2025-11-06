@@ -18,3 +18,5 @@ alias ..='cd ..'
 alias ll='ls -alF'
 alias gs='git status'
 alias gc='git commit -m'
+
+fortune | cowsay -r
